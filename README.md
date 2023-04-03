@@ -1,5 +1,13 @@
 [Video demo](https://drive.google.com/file/d/1SyCG4tK46kqKW6rMYbEE2CztJ1bYBNl4/view)
 <a name="readme-top"></a>
+<div align="center">
+
+  <img src="https://cdn-icons-png.flaticon.com/512/9495/9495758.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Catalog of my things</b></h3>
+
+</div>
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
