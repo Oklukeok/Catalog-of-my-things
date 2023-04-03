@@ -117,8 +117,7 @@ To run tests, run the following command:
 👤 **Lucas Bermudez**
 
 - GitHub: [@oklukeok](https://github.com/oklukeok)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Lucas Bermudez](https://linkedin.com/in/lucas-bermudez/)
 
 👤 **Gabriel Andrade**
 
